@@ -20,7 +20,7 @@
             width : 50%;
         }
         header,h1{
-            padding: 1.5% 1% ;
+            padding: 1.6% 1% ;
             padding-bottom : 4%;
             text-align: center;
             border-radius: 10px;
